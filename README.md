@@ -12,10 +12,11 @@
 ------------
 
 Este projeto foi criado para desenvolver as habilidades iniciais em testes automatizados utilizando [Cypress](https://www.cypress.io/ "Cypress"), [Cucumber-preprocessor](https://cucumber.io/docs/gherkin/ "Cucumber (gherkin)") e [xpath](https://github.com/cypress-io/cypress-xpath "Xpath"). <br><br>
-O site utilizado para os testes foi o [SwagLabs](http://https://www.saucedemo.com/ "SwagLabs"), um site fictício específico para testes.<br><br>
+O site utilizado para os testes foi o [SwagLabs](https://www.saucedemo.com/ "SwagLabs"), um site fictício específico para testes.<br><br>
 Foram realizados cenários de testes para: <br>
 - Login 
-<br>
+<br><br>
+
 - Produto (com e sem o [xpath](https://github.com/cypress-io/cypress-xpath "Xpath")).
 
 <br>
