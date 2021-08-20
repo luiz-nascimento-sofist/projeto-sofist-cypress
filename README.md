@@ -15,7 +15,7 @@
 
 2. [💻 Instalação](#-Instalação-)
 
-- [Getting Started](#-getting-started-)
+    - [Getting Started](#-getting-started-)
 
 3. [🚀 Tecnologias utilizadas e versões](#-Tecnologias-utilizadas-e-versões-)
 
@@ -40,13 +40,15 @@ Foram realizados cenários de testes para: <br>
 ------------
 <br>
 
-![Badge](https://img.shields.io/badge/importante-f39f37) :computer_mouse: 
+![Badge](https://img.shields.io/badge/importante-f39f37) 
 
 Para utilizar o Cypress, é necessário ter o [node.js](https://nodejs.org/en/download/ "node.js") instalado na sua máquina, além de uma IDE de sua preferência, como o [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code"), que possui um terminal integrado.
 <br><br>
 
 ### Getting Started [🔝](#Sumário)
 ------------
+<br>
+
 :heavy_check_mark: Após clonar este repositório, abra o projeto na IDE de sua preferência.
 
 
