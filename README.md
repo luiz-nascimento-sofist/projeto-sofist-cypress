@@ -10,7 +10,6 @@
 
 ## Sumário 
 ------------
-<br>
 
 1. [Descrição](#Descrição)
 
@@ -37,7 +36,6 @@ Foram realizados cenários de testes para: <br>
 
 ## Instalação 
 ------------
-<br>
 
 ![Badge](https://img.shields.io/badge/importante-f39f37) :computer_mouse: 
 
@@ -66,9 +64,8 @@ Lembrando que o comando acima está salvo no arquivo 'package.json', na parte de
 <br>
 
 
-## :desktop_computer: Tecnologias utilizadas e versões
+## Tecnologias utilizadas e versões
 ------------
-<br>
 
 - [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code") : v1.59.0
 
@@ -86,7 +83,7 @@ Lembrando que o comando acima está salvo no arquivo 'package.json', na parte de
 
 ## Status do Projeto
 ------------
-<br>
+
 🚀 O projeto-sofist-cypress está em construção 🚧
 <br>
 <br>
