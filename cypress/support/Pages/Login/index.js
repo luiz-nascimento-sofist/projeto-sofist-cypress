@@ -56,9 +56,11 @@ class Login {
     }
     assertivaParaVerificarSeEstouNaPaginaDeProdutos() {
         cy.get('.title').should('contain', 'Products');
+        cy.screenshot('MUsuarioLogouEFoiParaPaginaDeProdutos');
     }
     mensagemDeUsuarioBloqueado(){
         cy.get('.error-message-container').should('contain', 'Epic sadface: Sorry, this user has been locked out.');
+        cy.screenshot('MensagemDeUsuarioBloqueado');
     }
     loginComUsuarioProblematicoBDD() {
         cy.get('[data-test=username]').type('problem_user');
@@ -69,18 +71,21 @@ class Login {
     }
     mensagemDeUsuarioNaoPreenchido(){
         cy.get('.error-message-container').should('contain', 'Epic sadface: Username is required');
+        cy.screenshot('MensagemDeUsuarioNaoPreenchido');
     }
     preencherSomenteUsuarioValido() {
         cy.get('[data-test=username]').type('standard_user');
     }
     mensagemDeSenhaNaoPreenchida() {
         cy.get('.error-message-container').should('contain', 'Epic sadface: Password is required');
+        cy.screenshot('MensagemDeSenhaNaoPreenchida');
     }
     preencherComSenhaInvalidaQualquer() {
 	    cy.get('[data-test=password]').type('ola');
     }
     mensagemDeQueUsuarioESenhaNaoConferem() {
         cy.get('[data-test=error]').should('contain', 'Epic sadface: Username and password do not match any user in this service');
+        cy.screenshot('MensagemDeUsuarioESenhaNaoConferem');
     }
     loginUsuarioBloqueadoBDD() {
         cy.get('[data-test=username]').type('locked_out_user');

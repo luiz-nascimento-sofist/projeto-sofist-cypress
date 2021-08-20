@@ -1,9 +1,9 @@
 # Projeto Cypress
 
-[![Cypress](https://www.cypress.io/static/cypress-io-logo-social-share-8fb8a1db3cdc0b289fad927694ecb415.png "Cypress")](http://https://www.cypress.io/static/cypress-io-logo-social-share-8fb8a1db3cdc0b289fad927694ecb415.png "Cypress")
+[![Cypress + Cucumber](https://miro.medium.com/max/763/1*C-27ssAPshY3urn2pbEX4w.png "Cypress + Cucumber")](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fcwi-software%2Ftestes-automatizados-com-cypress-e-cucumber-d78b211da766&psig=AOvVaw26CJsyRZo-7f0GZBDuJJdZ&ust=1629549271213000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOD5757Ov_ICFQAAAAAdAAAAABAD "Cypress + Cucumber")
 
 
-[Cypress](https://www.cypress.io/ "Cypress") é um framework para testes automatizados end-to-end utilizando JavaScript. 
+[Cypress](https://www.cypress.io/ "Cypress") é um framework para testes automatizados end-to-end utilizando JavaScript. O [Cucumber-preprocessor](https://cucumber.io/docs/gherkin/ "Cucumber (gherkin)") é uma ferramenta que suporta a linguagem Gherkin, utilizada no Behavior Driven Development (BDD).
 <br>
 <br>
 

@@ -1,12 +1,11 @@
 {
-    "chromeWebSecurity" : false,
-    "testFiles": "**/*.feature",
-    "baseUrl": "https://www.saucedemo.com/",
-    "env": {
-        "senhaAutorizada": "secret_sauce",
-        "usuarioValido": "standard_user"
-    }
-
-        
-    
+  "chromeWebSecurity": false,
+  "testFiles": "**/*.feature",
+  "baseUrl": "https://www.saucedemo.com/",
+  "env": {
+    "senhaAutorizada": "secret_sauce",
+    "usuarioValido": "standard_user",
+    "TAGS": "@smoke"
+  },
+  "projectId": "tx1x2c"
 }

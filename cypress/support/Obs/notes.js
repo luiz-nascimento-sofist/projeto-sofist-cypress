@@ -1,0 +1,1 @@
+//"testFiles": "**/*.feature", - Caso queira que somente as features apareçam no cypress rodando.

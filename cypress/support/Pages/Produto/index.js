@@ -42,6 +42,7 @@ class Produto {
     finalizarOPedidoEReceberConfirmacao() {
         cy.get('[data-test=finish]').click();
         cy.get('.complete-header').should('contain', 'THANK YOU FOR YOUR ORDER');
+        cy.screenshot('MensagemDeObrigadoPeloPedido');
     }
     adicionarOProdutoNoCarrinhoXpath() {
         cy.xpath('//*[@id="add-to-cart-sauce-labs-bike-light"]').click();
@@ -57,6 +58,7 @@ class Produto {
     finalizarOPedidoEReceberConfirmacaoXpath() {
         cy.xpath('//*[@id="finish"]').click();
         cy.xpath('//*[@class="complete-header"]').should('contain', 'THANK YOU FOR YOUR ORDER');
+        cy.screenshot('MensagemDeObrigadoPeloPedidoXpath');
     }
 }
 

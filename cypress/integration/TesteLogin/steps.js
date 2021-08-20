@@ -71,3 +71,5 @@ When(/^o usuário tenta realizar o login com senha inválida e usuário válido 
 Then(/^será exibida uma mensagem de erro de usuário e senha não conferem$/, () => {
 	Login.mensagemDeQueUsuarioESenhaNaoConferem();
 });
+
+

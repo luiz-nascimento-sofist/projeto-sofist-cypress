@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "cy:open": "cypress open",
-    "cy:run": "cypress run"
+    "cy:run": "cypress run --record --key bba1cff3-d2e6-4b85-a6c4-9d45ae4f00ba"
   },
   "author": "Luiz Nascimento",
   "license": "ISC",
@@ -13,10 +13,12 @@
     "cypress": "^8.3.0"
   },
   "devDependencies": {
+    "cucumber-html-reporter": "^5.5.0",
     "cypress-cucumber-preprocessor": "^4.2.0",
     "cypress-xpath": "^1.6.2"
   },
   "cypress-cucumber-preprocessor": {
-    "nonGlobalStepDefinitions": true
+    "nonGlobalStepDefinitions": true,
+    "stepDefinitions": "cypress/integration/"
   }
 }
