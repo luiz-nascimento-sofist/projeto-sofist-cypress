@@ -66,6 +66,7 @@ Lembrando que o comando acima está salvo no arquivo 'package.json', na parte de
 
 ## Tecnologias utilizadas e versões
 ------------
+![Badge](https://github.githubassets.com/images/icons/emoji/unicode/1f51d.png)
 
 - [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code") : v1.59.0
 
