@@ -14,16 +14,14 @@
 
 1. [Descrição](#Descrição)
 
-2. [Instalação](#:computer_mouse:-Instalação)
+2. [Instalação](#Instalação)
     
     - [Getting Started](#Getting-Started)
 
-3. [Tecnologias utilizadas e versões](#:desktop_computer:-Tecnologias-utilizadas-e-versões)
+3. [Tecnologias utilizadas e versões](#Tecnologias-utilizadas-e-versões)
 
 4. [Status do Projeto](#Status-do-Projeto)
 <br><br>
-
-
 
 ## Descrição
 ------------
@@ -32,15 +30,16 @@ Este projeto foi criado para desenvolver as habilidades iniciais em testes autom
 O site utilizado para os testes foi o [SwagLabs](https://www.saucedemo.com/ "SwagLabs"), um site fictício específico para testes.<br><br>
 Foram realizados cenários de testes para: <br>
 - Login 
-<br>
 
 - Produto (com e sem o [xpath](https://github.com/cypress-io/cypress-xpath "Xpath")).
 
 <br>
 
-## :computer_mouse: Instalação 
+## Instalação 
 ------------
-![Badge](https://img.shields.io/badge/importante-f39f37)
+<br>
+
+![Badge](https://img.shields.io/badge/importante-f39f37) :computer_mouse: 
 
 Para utilizar o Cypress, é necessário ter o [node.js](https://nodejs.org/en/download/ "node.js") instalado na sua máquina, além de uma IDE de sua preferência, como o [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code"), que possui um terminal integrado.
 <br><br>
@@ -59,7 +58,8 @@ Para abrir o Cypress, basta executar o seguinte comando no terminal:
 ```bash
 npm run cy:open
 ```
-![Badge](https://img.shields.io/badge/observação-blue)<br>
+![Badge](https://img.shields.io/badge/observação-blue) :desktop_computer: 
+<br>
 Lembrando que o comando acima está salvo no arquivo 'package.json', na parte de 'scripts', e pode ser editado de acordo com a preferência do usuário.
 <br>
 
