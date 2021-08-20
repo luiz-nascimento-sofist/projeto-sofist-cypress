@@ -17,9 +17,11 @@
 
     - [Getting Started](#-getting-started-)
 
+    https://github.com/luiz-nascimento-sofist/projeto-sofist-cypress/blob/master/README.md#%EF%B8%8F-status-do-projeto-
+
 3. [🚀 Tecnologias utilizadas e versões](#-Tecnologias-utilizadas-e-versões-)
 
-4. [⏱️ Status do Projeto](#-Status-do-Projeto-) <br><br>
+4. [⏱️ Status do Projeto](#%EF%B8%8F-Status-do-Projeto-) <br><br>
 
 
 
