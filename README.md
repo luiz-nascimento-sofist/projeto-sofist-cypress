@@ -8,6 +8,15 @@
 <br>
 
 
+## Index 
+------------
+
+1. [Descrição](#Descrição)
+2. [Instalação](#Instalação)
+3. [Tecnologias](#Tecnologias)
+4. [Status](#Status)
+
+
 ## Descrição
 ------------
 
@@ -15,7 +24,7 @@ Este projeto foi criado para desenvolver as habilidades iniciais em testes autom
 O site utilizado para os testes foi o [SwagLabs](https://www.saucedemo.com/ "SwagLabs"), um site fictício específico para testes.<br><br>
 Foram realizados cenários de testes para: <br>
 - Login 
-<br><br>
+<br>
 
 - Produto (com e sem o [xpath](https://github.com/cypress-io/cypress-xpath "Xpath")).
 
@@ -26,6 +35,7 @@ Foram realizados cenários de testes para: <br>
 ![Badge](https://img.shields.io/badge/importante-f39f37)
 
 Para utilizar o Cypress, é necessário ter o [node.js](https://nodejs.org/en/download/ "node.js") instalado na sua máquina, além de uma IDE de sua preferência, como o [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code"), que possui um terminal integrado.
+<br><br>
 
 ### Getting Started
 ------------
@@ -61,6 +71,8 @@ Lembrando que o comando acima está salvo no arquivo 'package.json', na parte de
 - [xpath](https://github.com/cypress-io/cypress-xpath "Xpath") : v1.6.2
 
 - [Git](https://git-scm.com/) : v2.25.1
+<br>
+<br>
 
 
 ## Status do Projeto
@@ -69,6 +81,7 @@ Lembrando que o comando acima está salvo no arquivo 'package.json', na parte de
 🚀 O projeto-sofist-cypress está em construção 🚧
 <br>
 <br>
+
 
 
 ![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
