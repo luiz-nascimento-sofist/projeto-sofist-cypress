@@ -16,7 +16,7 @@
 2. [💻 Instalação](#-Instalação-)
 
     
-    - [Getting Started](#-getting-started-)
+    - [Getting Started](##-getting-started-)
 
 
 3. [🚀 Tecnologias utilizadas e versões](#-Tecnologias-utilizadas-e-versões-)
