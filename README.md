@@ -15,14 +15,7 @@
 
 2. [💻 Instalação](#-Instalação-)
 
-<<<<<<< HEAD
     - [Getting Started](#getting-started-)
-=======
-
-    - [Getting Started](#-getting-started-)
->>>>>>> 3b500023a286bb3c957806c558b2844038dac82c
-
-
 
 3. [🚀 Tecnologias utilizadas e versões](#-Tecnologias-utilizadas-e-versões-)
 
