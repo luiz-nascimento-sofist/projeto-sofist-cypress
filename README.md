@@ -11,19 +11,20 @@
 ## Sumário 
 ------------
 
-1. [Descrição](#Descrição)
+1. [📝 Descrição](#-Descrição-)
 
-2. [Instalação](#Instalação)
+2. [💻 Instalação](#-Instalação-)
     
-    - [Getting Started](#Getting-Started)
+    - [Getting Started](#-Getting-Started-)
 
-3. [Tecnologias utilizadas e versões](#Tecnologias-utilizadas-e-versões)
+3. [🚀 Tecnologias utilizadas e versões](-#Tecnologias-utilizadas-e-versões-)
 
-4. [Status do Projeto](#Status-do-Projeto)
+4. [⏱️ Status do Projeto](#-Status-do-Projeto-)
 <br><br>
 
-## Descrição
+## 📝 Descrição [🔝](#Sumário)
 ------------
+
 
 Este projeto foi criado para desenvolver as habilidades iniciais em testes automatizados utilizando [Cypress](https://www.cypress.io/ "Cypress"), [Cucumber-preprocessor](https://cucumber.io/docs/gherkin/ "Cucumber (gherkin)") e [xpath](https://github.com/cypress-io/cypress-xpath "Xpath"). <br><br>
 O site utilizado para os testes foi o [SwagLabs](https://www.saucedemo.com/ "SwagLabs"), um site fictício específico para testes.<br><br>
@@ -34,15 +35,16 @@ Foram realizados cenários de testes para: <br>
 
 <br>
 
-## Instalação 
+## 💻 Instalação [🔝](#Sumário)
 ------------
+<br>
 
 ![Badge](https://img.shields.io/badge/importante-f39f37) :computer_mouse: 
 
 Para utilizar o Cypress, é necessário ter o [node.js](https://nodejs.org/en/download/ "node.js") instalado na sua máquina, além de uma IDE de sua preferência, como o [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code"), que possui um terminal integrado.
 <br><br>
 
-### Getting Started
+### Getting Started [🔝](#Sumário)
 ------------
 :heavy_check_mark: Após clonar este repositório, abra o projeto na IDE de sua preferência.
 
@@ -64,9 +66,8 @@ Lembrando que o comando acima está salvo no arquivo 'package.json', na parte de
 <br>
 
 
-## Tecnologias utilizadas e versões
+## 🚀 Tecnologias utilizadas e versões [🔝](#Sumário)
 ------------
-![Badge](https://github.githubassets.com/images/icons/emoji/unicode/1f51d.png)
 
 - [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code") : v1.59.0
 
@@ -82,8 +83,9 @@ Lembrando que o comando acima está salvo no arquivo 'package.json', na parte de
 <br>
 
 
-## Status do Projeto
+## ⏱️ Status do Projeto [🔝](#Sumário)
 ------------
+<br>
 
 🚀 O projeto-sofist-cypress está em construção 🚧
 <br>
