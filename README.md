@@ -45,7 +45,6 @@ Foram realizados cenários de testes para: <br>
 Para utilizar o Cypress, é necessário ter o [node.js](https://nodejs.org/en/download/ "node.js") instalado na sua máquina, além de uma IDE de sua preferência, como o [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code"), que possui um terminal integrado.
 <br><br>
 
-https://github.com/luiz-nascimento-sofist/projeto-sofist-cypress/blob/master/README.md#-getting-started-
 
 ### Getting Started [🔝](#Sumário)
 ------------
