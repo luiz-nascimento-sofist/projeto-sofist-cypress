@@ -13,11 +13,16 @@
 <br>
 
 1. [Descrição](#Descrição)
+
 2. [Instalação](#:computer_mouse:-Instalação)
+    
     - [Getting Started](#Getting-Started)
+
 3. [Tecnologias utilizadas e versões](#:desktop_computer:-Tecnologias-utilizadas-e-versões)
+
 4. [Status do Projeto](#Status-do-Projeto)
 <br><br>
+
 
 
 ## Descrição
