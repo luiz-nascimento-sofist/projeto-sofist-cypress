@@ -46,7 +46,7 @@ Para utilizar o Cypress, é necessário ter o [node.js](https://nodejs.org/en/do
 
 ### Getting Started
 ------------
-<ins> Após clonar este repositório, abra o projeto na IDE de sua preferência.</ins>
+:heavy_check_mark: Após clonar este repositório, abra o projeto na IDE de sua preferência.
 
 
 Utilize o npm (gerenciador de pacotes do node.js)  para a instalação do Cypress e demais dependências utilizadas no projeto (cucumber-pre-processor, cypress-xpath). <ins>Abra um novo terminal na IDE e execute:</ins>
@@ -58,6 +58,8 @@ Para abrir o Cypress, basta executar o seguinte comando no terminal:
 ```bash
 npm run cy:open
 ```
+<br>
+
 ![Badge](https://img.shields.io/badge/observação-blue) :desktop_computer: 
 <br>
 Lembrando que o comando acima está salvo no arquivo 'package.json', na parte de 'scripts', e pode ser editado de acordo com a preferência do usuário.
@@ -79,7 +81,6 @@ Lembrando que o comando acima está salvo no arquivo 'package.json', na parte de
 - [xpath](https://github.com/cypress-io/cypress-xpath "Xpath") : v1.6.2
 
 - [Git](https://git-scm.com/) : v2.25.1
-<br>
 <br>
 
 
