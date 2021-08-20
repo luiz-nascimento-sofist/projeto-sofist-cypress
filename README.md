@@ -14,10 +14,12 @@
 1. [📝 Descrição](#-Descrição-)
 
 2. [💻 Instalação](#-Instalação-)
-    
-    - [Getting Started](#-Getting-Started-)
 
-3. [🚀 Tecnologias utilizadas e versões](-#Tecnologias-utilizadas-e-versões-)
+    
+    - [Getting Started](#Getting-Started)
+
+
+3. [🚀 Tecnologias utilizadas e versões](#-Tecnologias-utilizadas-e-versões-)
 
 4. [⏱️ Status do Projeto](#-Status-do-Projeto-)
 <br><br>
